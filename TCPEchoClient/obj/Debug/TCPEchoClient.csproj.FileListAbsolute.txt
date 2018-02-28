@@ -1,0 +1,20 @@
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoClient\TCPEchoClient\bin\Debug\TCPEchoClient.exe.config
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.csprojResolveAssemblyReference.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoClient\TCPEchoClient\bin\Debug\TCPEchoClient.exe
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoClient\TCPEchoClient\bin\Debug\TCPEchoClient.pdb
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.exe
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.pdb
+C:\Users\Jonas\Desktop\TCPEchoServerClient\TCPEchoClient\TCPEchoClient\bin\Debug\TCPEchoClient.exe.config
+C:\Users\Jonas\Desktop\TCPEchoServerClient\TCPEchoClient\TCPEchoClient\bin\Debug\TCPEchoClient.exe
+C:\Users\Jonas\Desktop\TCPEchoServerClient\TCPEchoClient\TCPEchoClient\bin\Debug\TCPEchoClient.pdb
+C:\Users\Jonas\Desktop\TCPEchoServerClient\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Desktop\TCPEchoServerClient\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\TCPEchoServerClient\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.exe
+C:\Users\Jonas\Desktop\TCPEchoServerClient\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.pdb
+C:\Users\Jonas\Desktop\Ny mappe\TCPEchoClientIterativ\TCPEchoClient\bin\Debug\TCPEchoClient.exe.config
+C:\Users\Jonas\Desktop\Ny mappe\TCPEchoClientIterativ\TCPEchoClient\bin\Debug\TCPEchoClient.exe
+C:\Users\Jonas\Desktop\Ny mappe\TCPEchoClientIterativ\TCPEchoClient\bin\Debug\TCPEchoClient.pdb
+C:\Users\Jonas\Desktop\Ny mappe\TCPEchoClientIterativ\TCPEchoClient\obj\Debug\TCPEchoClient.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Desktop\Ny mappe\TCPEchoClientIterativ\TCPEchoClient\obj\Debug\TCPEchoClient.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\Ny mappe\TCPEchoClientIterativ\TCPEchoClient\obj\Debug\TCPEchoClient.exe
+C:\Users\Jonas\Desktop\Ny mappe\TCPEchoClientIterativ\TCPEchoClient\obj\Debug\TCPEchoClient.pdb
